@@ -72,11 +72,18 @@
 
 }
 
+#img{
+    border-radius: 20px;
+    padding-left: 35%;
+}
+
 .content-title{
     font-size: 35px;
     left: 37%;
+    padding-left: 35%;
 }
 
 .content-subtitle{
     font-size: 32px;
+    padding-left: 35%;
 }
